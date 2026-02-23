@@ -1,0 +1,15 @@
+{
+  "project": "pipeline-flow-state-3d",
+  "scene": {
+    "theme": "operations",
+    "nodes": 24,
+    "links": 42,
+    "playback": true
+  },
+  "views": ["executive", "operator", "forensics"],
+  "hotkeys": {
+    "focus_hotspot": "H",
+    "toggle_links": "L",
+    "playback": "P"
+  }
+}
